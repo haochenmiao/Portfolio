@@ -1,0 +1,1 @@
+This is the starting point of my journey to ML related projects. I will include projects that applies to the field of data science, data analytics, data engineer and AI
