@@ -1,1 +1,1 @@
-This is the starting point of my journey to ML related projects. I will include projects that applies to the field of data science, data analytics, data engineer and AI
+This is the starting point of my journey to ML related projects. I will include projects that applies to the field of data science, data analytics, data engineering and AI. The goal is for employers to easily navigate through my github page.
