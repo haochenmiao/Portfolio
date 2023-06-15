@@ -1,4 +1,4 @@
-This is the beginning of the Data Analyst Projects
+This is the beginning of Haochen's Data Analyst Projects, please enjoy yourself
 
 ## Projects
 
