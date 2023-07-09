@@ -1,0 +1,10 @@
+# SpaceX-Mission-Analysis-and-Prediction
+* [1 - Hands-on Lab_ Complete the Data Collection API Lab.ipynb](https://github.com/haochenmiao/Portfolio/blob/main/Data%20Scientist%20Portfolio/SpaceX-Mission-Analysis-and-Prediction/jupyter-labs-spacex-data-collection-api.ipynb)
+* [2 - Hands-on Lab_ Data Collection with Web Scraping.ipynb](https://github.com/haochenmiao/Portfolio/blob/main/Data%20Scientist%20Portfolio/SpaceX-Mission-Analysis-and-Prediction/jupyter-labs-webscraping.ipynb)
+* [3 - Hands-On Lab_ Data Wrangling.ipynb](https://github.com/haochenmiao/Portfolio/blob/main/Data%20Scientist%20Portfolio/SpaceX-Mission-Analysis-and-Prediction/IBM-DS0321EN-SkillsNetwork_labs_module_1_L3_labs-jupyter-spacex-data_wrangling_jupyterlite.jupyterlite.ipynb)
+* [4 - Hands-on Lab Complete the EDA with SQL.ipynb](https://github.com/haochenmiao/Portfolio/blob/main/Data%20Scientist%20Portfolio/SpaceX-Mission-Analysis-and-Prediction/jupyter-labs-eda-sql-coursera_sqllite.ipynb)
+* [5 - jupyter-labs-eda-dataviz.ipynb](https://github.com/haochenmiao/Portfolio/blob/main/Data%20Scientist%20Portfolio/SpaceX-Mission-Analysis-and-Prediction/IBM-DS0321EN-SkillsNetwork_labs_module_2_jupyter-labs-eda-dataviz.ipynb.jupyterlite.ipynb)
+* [6 - lab_jupyter_launch_site_location.ipynb](https://github.com/haochenmiao/Portfolio/blob/main/Data%20Scientist%20Portfolio/SpaceX-Mission-Analysis-and-Prediction/IBM-DS0321EN-SkillsNetwork_labs_module_3_lab_jupyter_launch_site_location.jupyterlite.ipynb)
+* [7 - spacex_dash_app.py & Hands-on Lab_ Build an Interactive Dashboard with Ploty Dash.ipynb](https://github.com/haochenmiao/Portfolio/blob/main/Data%20Scientist%20Portfolio/SpaceX-Mission-Analysis-and-Prediction/spacex_dash_app.py)
+* [8 - SpaceX_Machine Learning Prediction_Part_5.ipynb](https://github.com/haochenmiao/Portfolio/blob/main/Data%20Scientist%20Portfolio/SpaceX-Mission-Analysis-and-Prediction/IBM-DS0321EN-SkillsNetwork_labs_module_4_SpaceX_Machine_Learning_Prediction_Part_5.jupyterlite.ipynb)
+* [9 - haochen-spacex-booster-prediction-report.pdf]()
