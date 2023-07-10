@@ -7,4 +7,4 @@
 * [6 - lab_jupyter_launch_site_location.ipynb](https://github.com/haochenmiao/Portfolio/blob/main/Data%20Scientist%20Portfolio/SpaceX-Mission-Analysis-and-Prediction/IBM-DS0321EN-SkillsNetwork_labs_module_3_lab_jupyter_launch_site_location.jupyterlite.ipynb)
 * [7 - spacex_dash_app.py & Hands-on Lab_ Build an Interactive Dashboard with Ploty Dash.ipynb](https://github.com/haochenmiao/Portfolio/blob/main/Data%20Scientist%20Portfolio/SpaceX-Mission-Analysis-and-Prediction/spacex_dash_app.py)
 * [8 - SpaceX_Machine Learning Prediction_Part_5.ipynb](https://github.com/haochenmiao/Portfolio/blob/main/Data%20Scientist%20Portfolio/SpaceX-Mission-Analysis-and-Prediction/IBM-DS0321EN-SkillsNetwork_labs_module_4_SpaceX_Machine_Learning_Prediction_Part_5.jupyterlite.ipynb)
-* [9 - haochen-spacex-booster-prediction-report.pdf]()
+* [9 - haochen-spacex-booster-prediction-report.pdf](https://github.com/haochenmiao/Portfolio/blob/main/Data%20Scientist%20Portfolio/SpaceX-Mission-Analysis-and-Prediction/ds-capstone-template-coursera.pdf)
